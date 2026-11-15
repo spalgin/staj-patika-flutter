@@ -1,0 +1,38 @@
+[
+  {
+    "id": "doruk-canta",
+    "name": "Doruk Sırt Çantası",
+    "category": "Yürüyüş",
+    "price": 1890,
+    "image": "assets/images/doruk.jpg",
+    "description": "Günübirlik yürüyüşlerde su, kıyafet ve küçük ekipmanları düzenli taşımak için tasarlanmış 28 litrelik sırt çantası.",
+    "features": ["28 litre hacim", "Ayarlanabilir göğüs kemeri", "Yan matara cepleri"]
+  },
+  {
+    "id": "kaya-termos",
+    "name": "Kaya Termos",
+    "category": "Aksesuar",
+    "price": 690,
+    "image": "assets/images/kaya.jpg",
+    "description": "Patikada ve kampta içeceğini yanında taşıyabileceğin, çift duvarlı çelik termos.",
+    "features": ["750 ml kapasite", "Çift duvarlı paslanmaz çelik", "Vidalı kapak"]
+  },
+  {
+    "id": "ova-cadir",
+    "name": "Ova Çadır",
+    "category": "Kamp",
+    "price": 3290,
+    "image": "assets/images/ova.jpg",
+    "description": "İki kişilik hafta sonu kampları için kompakt kubbe çadır. Havalandırma açıklıkları içeride hava dolaşımı sağlar.",
+    "features": ["İki kişilik", "Çift katmanlı gövde", "Taşıma çantası dahil"]
+  },
+  {
+    "id": "kor-fener",
+    "name": "Kor Kamp Feneri",
+    "category": "Kamp",
+    "price": 540,
+    "image": "assets/images/kor.jpg",
+    "description": "Kamp masası ve çadır içi için yumuşak ışık veren, askılı ve şarj edilebilir fener.",
+    "features": ["Üç parlaklık düzeyi", "USB-C şarj", "Taşıma ve asma kulpu"]
+  }
+]
